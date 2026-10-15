@@ -1,0 +1,181 @@
+{
+  "_aviso": "Gabarito FICTÍCIO, escrito à mão para a obra fictícia. Serve para demonstrar o método de avaliação; os números que ele gera não medem nenhuma obra real.",
+  "relatorio": 1,
+  "periodo": {
+    "de": "2026-09-14",
+    "ate": "2026-09-25"
+  },
+  "servicosExecutados": [
+    {
+      "data": "2026-09-14",
+      "rdo": 1,
+      "ambiente": "3º pavimento",
+      "servico": "Início da montagem das fôrmas da laje do 3º pavimento."
+    },
+    {
+      "data": "2026-09-15",
+      "rdo": 2,
+      "ambiente": "3º pavimento",
+      "servico": "Prosseguimento das fôrmas e início da armação das vigas V301 a V308."
+    },
+    {
+      "data": "2026-09-16",
+      "rdo": 3,
+      "ambiente": "3º pavimento",
+      "servico": "Fôrmas da laje concluídas e eletrodutos instalados antes da concretagem."
+    },
+    {
+      "data": "2026-09-18",
+      "rdo": 5,
+      "ambiente": "3º pavimento",
+      "servico": "Armação das vigas concluída e liberada pela fiscalização."
+    },
+    {
+      "data": "2026-09-21",
+      "rdo": 6,
+      "ambiente": "3º pavimento",
+      "servico": "Concretagem da laje (38 m³) com moldagem de corpos de prova."
+    },
+    {
+      "data": "2026-09-23",
+      "rdo": 8,
+      "ambiente": "Canteiro",
+      "servico": "Recebimento de blocos cerâmicos e cimento."
+    },
+    {
+      "data": "2026-09-24",
+      "rdo": 9,
+      "ambiente": "Térreo",
+      "servico": "Impermeabilização das jardineiras do térreo."
+    },
+    {
+      "data": "2026-09-25",
+      "rdo": 10,
+      "ambiente": "Canteiro",
+      "servico": "Diálogo de segurança sobre trabalho em altura."
+    }
+  ],
+  "efetivoPorDia": {
+    "2026-09-14": {
+      "total": 10,
+      "funcoes": {
+        "Encarregado": 1,
+        "Servente": 3,
+        "Carpinteiro": 6
+      }
+    },
+    "2026-09-15": {
+      "total": 14,
+      "funcoes": {
+        "Encarregado": 1,
+        "Servente": 3,
+        "Carpinteiro": 6,
+        "Armador": 4
+      }
+    },
+    "2026-09-16": {
+      "total": 15,
+      "funcoes": {
+        "Encarregado": 1,
+        "Servente": 3,
+        "Carpinteiro": 5,
+        "Armador": 4,
+        "Eletricista": 2
+      }
+    },
+    "2026-09-17": {
+      "total": 9,
+      "funcoes": {
+        "Encarregado": 1,
+        "Servente": 2,
+        "Carpinteiro": 3,
+        "Armador": 3
+      }
+    },
+    "2026-09-18": {
+      "total": 13,
+      "funcoes": {
+        "Encarregado": 1,
+        "Pedreiro": 2,
+        "Servente": 4,
+        "Carpinteiro": 2,
+        "Armador": 4
+      }
+    },
+    "2026-09-19": {
+      "total": 0,
+      "funcoes": {}
+    },
+    "2026-09-20": {
+      "total": 0,
+      "funcoes": {}
+    },
+    "2026-09-21": {
+      "total": 14,
+      "funcoes": {
+        "Encarregado": 1,
+        "Pedreiro": 5,
+        "Servente": 6,
+        "Carpinteiro": 2
+      }
+    },
+    "2026-09-22": {
+      "total": 10,
+      "funcoes": {
+        "Encarregado": 1,
+        "Pedreiro": 3,
+        "Servente": 4,
+        "Encanador": 2
+      }
+    },
+    "2026-09-23": {
+      "total": 10,
+      "funcoes": {
+        "Encarregado": 1,
+        "Pedreiro": 3,
+        "Servente": 4,
+        "Encanador": 2
+      }
+    },
+    "2026-09-24": {
+      "total": 10,
+      "funcoes": {
+        "Encarregado": 1,
+        "Pedreiro": 3,
+        "Servente": 4,
+        "Encanador": 2
+      }
+    },
+    "2026-09-25": {
+      "total": 8,
+      "funcoes": {
+        "Encarregado": 1,
+        "Pedreiro": 3,
+        "Servente": 4
+      }
+    }
+  },
+  "intercorrencias": [
+    {
+      "categoria": "Clima",
+      "questao": "Chuva",
+      "resposta": "17/09 - Paralisação das 7h às 11h por chuva forte; armação retomada à tarde.",
+      "status": "CONCLUÍDO",
+      "origem": "rdo"
+    },
+    {
+      "categoria": "Suprimentos",
+      "questao": "Concreto",
+      "resposta": "21/09 - Entrega do concreto atrasou 1h30 (usina), sem prejuízo à qualidade.",
+      "status": "CONCLUÍDO",
+      "origem": "rdo"
+    },
+    {
+      "categoria": "Qualidade",
+      "questao": "Ensaios",
+      "resposta": "Resultado dos corpos de prova previsto para 28 dias após a concretagem.",
+      "status": "ABERTO",
+      "origem": "externa"
+    }
+  ]
+}

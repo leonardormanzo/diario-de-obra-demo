@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* Safety net: no element may widen the page on phones (would push the RDO window off-screen). */
+html,
+body {
+  overflow-x: clip;
+}

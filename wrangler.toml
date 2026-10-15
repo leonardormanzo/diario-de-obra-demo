@@ -1,0 +1,23 @@
+name = "diario-de-obra"
+main = "worker/index.ts"
+compatibility_date = "2026-10-01"
+
+# O app compilado é servido como arquivos estáticos; só /api/* executa o Worker.
+[assets]
+directory = "./dist"
+binding = "ASSETS"
+run_worker_first = ["/api/*"]
+
+# Banco de dados (D1). Crie o seu e cole o database_id aqui (veja o README):
+#   npx wrangler d1 create diario-de-obra
+[[d1_databases]]
+binding = "DB"
+database_name = "diario-de-obra"
+database_id = "COLE-AQUI-O-DATABASE-ID"
+migrations_dir = "worker/migrations"
+
+# Fotos em R2 (opcional, recomendado em produção). Para ligar: crie o bucket (veja o README) e remova o "#".
+# Sem isso, as fotos ficam no próprio D1 (funciona, mas o banco cresce rápido).
+# [[r2_buckets]]
+# binding = "PHOTOS"
+# bucket_name = "diario-de-obra-fotos"

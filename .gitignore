@@ -1,0 +1,15 @@
+node_modules/
+dist/
+coverage/
+.DS_Store
+*.log
+.wrangler/
+
+# segredos e variáveis locais (nunca no git)
+.env*
+.dev.vars
+*.pem
+
+# dados reais de obra: mantenha SEMPRE fora do repositório
+dados-reais/
+importacao/

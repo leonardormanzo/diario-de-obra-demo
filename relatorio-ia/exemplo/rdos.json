@@ -1,0 +1,526 @@
+[
+  {
+    "rdo": 1,
+    "data": "2026-09-14",
+    "clima": "ensolarado",
+    "equipe": [
+      {
+        "funcao": "Encarregado",
+        "quantidade": 1
+      },
+      {
+        "funcao": "Servente",
+        "quantidade": 3
+      },
+      {
+        "funcao": "Carpinteiro",
+        "quantidade": 6
+      }
+    ],
+    "servicos": [
+      {
+        "descricao": "Montagem de fôrmas da laje do 3º pavimento"
+      },
+      {
+        "descricao": "Limpeza e organização do canteiro"
+      }
+    ],
+    "descritivo": "Início da montagem das fôrmas da laje do 3º pavimento.",
+    "ocorrencias": "Sem ocorrências no dia.",
+    "fotos": 1
+  },
+  {
+    "rdo": 2,
+    "data": "2026-09-15",
+    "clima": "ensolarado",
+    "equipe": [
+      {
+        "funcao": "Encarregado",
+        "quantidade": 1
+      },
+      {
+        "funcao": "Servente",
+        "quantidade": 3
+      },
+      {
+        "funcao": "Carpinteiro",
+        "quantidade": 6
+      },
+      {
+        "funcao": "Armador",
+        "quantidade": 4
+      }
+    ],
+    "servicos": [
+      {
+        "descricao": "Montagem de fôrmas da laje do 3º pavimento"
+      },
+      {
+        "descricao": "Armação das vigas V301 a V308"
+      }
+    ],
+    "descritivo": "Armação das vigas iniciada em paralelo às fôrmas.",
+    "ocorrencias": "Sem ocorrências no dia.",
+    "fotos": 0
+  },
+  {
+    "rdo": 3,
+    "data": "2026-09-16",
+    "clima": "nublado",
+    "equipe": [
+      {
+        "funcao": "Encarregado",
+        "quantidade": 1
+      },
+      {
+        "funcao": "Servente",
+        "quantidade": 3
+      },
+      {
+        "funcao": "Carpinteiro",
+        "quantidade": 5
+      },
+      {
+        "funcao": "Armador",
+        "quantidade": 4
+      },
+      {
+        "funcao": "Eletricista",
+        "quantidade": 2
+      }
+    ],
+    "servicos": [
+      {
+        "descricao": "Montagem de fôrmas da laje do 3º pavimento"
+      },
+      {
+        "descricao": "Armação das vigas V301 a V308"
+      },
+      {
+        "descricao": "Lançamento de eletrodutos na laje do 3º pavimento"
+      }
+    ],
+    "descritivo": "Fôrmas concluídas. Eletrodutos sendo posicionados antes da concretagem.",
+    "ocorrencias": "Sem ocorrências no dia.",
+    "fotos": 1
+  },
+  {
+    "rdo": 4,
+    "data": "2026-09-17",
+    "clima": "impraticavel",
+    "equipe": [
+      {
+        "funcao": "Encarregado",
+        "quantidade": 1
+      },
+      {
+        "funcao": "Servente",
+        "quantidade": 2
+      },
+      {
+        "funcao": "Carpinteiro",
+        "quantidade": 3
+      },
+      {
+        "funcao": "Armador",
+        "quantidade": 3
+      }
+    ],
+    "servicos": [
+      {
+        "descricao": "Armação das vigas V301 a V308"
+      }
+    ],
+    "descritivo": "Trabalho retomado à tarde após a chuva.",
+    "ocorrencias": "Paralisação das 7h às 11h por chuva forte. Armação retomada à tarde com equipe reduzida.",
+    "fotos": 0
+  },
+  {
+    "rdo": 5,
+    "data": "2026-09-18",
+    "clima": "ensolarado",
+    "equipe": [
+      {
+        "funcao": "Encarregado",
+        "quantidade": 1
+      },
+      {
+        "funcao": "Pedreiro",
+        "quantidade": 2
+      },
+      {
+        "funcao": "Servente",
+        "quantidade": 4
+      },
+      {
+        "funcao": "Carpinteiro",
+        "quantidade": 2
+      },
+      {
+        "funcao": "Armador",
+        "quantidade": 4
+      }
+    ],
+    "servicos": [
+      {
+        "descricao": "Armação das vigas V301 a V308"
+      },
+      {
+        "descricao": "Elevação da alvenaria do 1º pavimento"
+      }
+    ],
+    "descritivo": "Armação conferida e liberada pela fiscalização. Concretagem agendada para segunda-feira.",
+    "ocorrencias": "Sem ocorrências no dia.",
+    "fotos": 1
+  },
+  {
+    "rdo": 6,
+    "data": "2026-09-21",
+    "clima": "ensolarado",
+    "equipe": [
+      {
+        "funcao": "Encarregado",
+        "quantidade": 1
+      },
+      {
+        "funcao": "Pedreiro",
+        "quantidade": 5
+      },
+      {
+        "funcao": "Servente",
+        "quantidade": 6
+      },
+      {
+        "funcao": "Carpinteiro",
+        "quantidade": 2
+      }
+    ],
+    "servicos": [
+      {
+        "descricao": "Concretagem da laje do 3º pavimento (38 m³)"
+      }
+    ],
+    "descritivo": "Concretagem concluída às 17h30. Corpos de prova moldados.",
+    "ocorrencias": "Entrega do concreto atrasou 1h30 (usina). Sem prejuízo à qualidade; término adiado em 1h30.",
+    "fotos": 2
+  },
+  {
+    "rdo": 7,
+    "data": "2026-09-22",
+    "clima": "nublado",
+    "equipe": [
+      {
+        "funcao": "Encarregado",
+        "quantidade": 1
+      },
+      {
+        "funcao": "Pedreiro",
+        "quantidade": 3
+      },
+      {
+        "funcao": "Servente",
+        "quantidade": 4
+      },
+      {
+        "funcao": "Encanador",
+        "quantidade": 2
+      }
+    ],
+    "servicos": [
+      {
+        "descricao": "Cura úmida da laje do 3º pavimento"
+      },
+      {
+        "descricao": "Elevação da alvenaria do 1º pavimento"
+      },
+      {
+        "descricao": "Prumadas de água fria"
+      }
+    ],
+    "descritivo": "Molhagem da laje 3 vezes ao dia.",
+    "ocorrencias": "Sem ocorrências no dia.",
+    "fotos": 0
+  },
+  {
+    "rdo": 8,
+    "data": "2026-09-23",
+    "clima": "ensolarado",
+    "equipe": [
+      {
+        "funcao": "Encarregado",
+        "quantidade": 1
+      },
+      {
+        "funcao": "Pedreiro",
+        "quantidade": 3
+      },
+      {
+        "funcao": "Servente",
+        "quantidade": 4
+      },
+      {
+        "funcao": "Encanador",
+        "quantidade": 2
+      }
+    ],
+    "servicos": [
+      {
+        "descricao": "Elevação da alvenaria do 1º pavimento"
+      },
+      {
+        "descricao": "Prumadas de água fria"
+      }
+    ],
+    "descritivo": "Materiais recebidos: 8 mil blocos cerâmicos e 60 sacos de cimento.",
+    "ocorrencias": "Sem ocorrências no dia.",
+    "fotos": 1
+  },
+  {
+    "rdo": 9,
+    "data": "2026-09-24",
+    "clima": "ensolarado",
+    "equipe": [
+      {
+        "funcao": "Encarregado",
+        "quantidade": 1
+      },
+      {
+        "funcao": "Pedreiro",
+        "quantidade": 3
+      },
+      {
+        "funcao": "Servente",
+        "quantidade": 4
+      },
+      {
+        "funcao": "Encanador",
+        "quantidade": 2
+      }
+    ],
+    "servicos": [
+      {
+        "descricao": "Elevação da alvenaria do 1º pavimento"
+      },
+      {
+        "descricao": "Impermeabilização das jardineiras do térreo"
+      },
+      {
+        "descricao": "Prumadas de água fria"
+      }
+    ],
+    "descritivo": "",
+    "ocorrencias": "Sem ocorrências no dia.",
+    "fotos": 0
+  },
+  {
+    "rdo": 10,
+    "data": "2026-09-25",
+    "clima": "ensolarado",
+    "equipe": [
+      {
+        "funcao": "Encarregado",
+        "quantidade": 1
+      },
+      {
+        "funcao": "Pedreiro",
+        "quantidade": 3
+      },
+      {
+        "funcao": "Servente",
+        "quantidade": 4
+      }
+    ],
+    "servicos": [
+      {
+        "descricao": "Elevação da alvenaria do 1º pavimento"
+      },
+      {
+        "descricao": "Impermeabilização das jardineiras do térreo"
+      },
+      {
+        "descricao": "Diálogo de segurança sobre trabalho em altura"
+      }
+    ],
+    "descritivo": "DDS com toda a equipe às 7h30.",
+    "ocorrencias": "Sem ocorrências no dia.",
+    "fotos": 1
+  },
+  {
+    "rdo": 11,
+    "data": "2026-09-28",
+    "clima": "nublado",
+    "equipe": [
+      {
+        "funcao": "Encarregado",
+        "quantidade": 1
+      },
+      {
+        "funcao": "Pedreiro",
+        "quantidade": 3
+      },
+      {
+        "funcao": "Servente",
+        "quantidade": 4
+      },
+      {
+        "funcao": "Eletricista",
+        "quantidade": 2
+      }
+    ],
+    "servicos": [
+      {
+        "descricao": "Elevação da alvenaria do 1º pavimento"
+      },
+      {
+        "descricao": "Elevação da alvenaria do 2º pavimento"
+      },
+      {
+        "descricao": "Caixas de passagem elétricas do 2º pavimento"
+      }
+    ],
+    "descritivo": "",
+    "ocorrencias": "Falta de energia provisória por 2h (concessionária). Serviços manuais mantidos.",
+    "fotos": 0
+  },
+  {
+    "rdo": 12,
+    "data": "2026-09-29",
+    "clima": "ensolarado",
+    "equipe": [
+      {
+        "funcao": "Encarregado",
+        "quantidade": 1
+      },
+      {
+        "funcao": "Pedreiro",
+        "quantidade": 3
+      },
+      {
+        "funcao": "Servente",
+        "quantidade": 4
+      },
+      {
+        "funcao": "Encanador",
+        "quantidade": 2
+      }
+    ],
+    "servicos": [
+      {
+        "descricao": "Elevação da alvenaria do 2º pavimento"
+      },
+      {
+        "descricao": "Ramais hidráulicos do 2º pavimento"
+      },
+      {
+        "descricao": "Fechamento do shaft do 2º pavimento"
+      }
+    ],
+    "descritivo": "",
+    "ocorrencias": "Divergência entre os projetos estrutural e arquitetônico na posição do shaft do 2º pavimento. Consulta enviada ao projetista; serviço do shaft parado até a resposta.",
+    "fotos": 1
+  },
+  {
+    "rdo": 13,
+    "data": "2026-09-30",
+    "clima": "ensolarado",
+    "equipe": [
+      {
+        "funcao": "Encarregado",
+        "quantidade": 1
+      },
+      {
+        "funcao": "Pedreiro",
+        "quantidade": 3
+      },
+      {
+        "funcao": "Servente",
+        "quantidade": 4
+      },
+      {
+        "funcao": "Carpinteiro",
+        "quantidade": 2
+      },
+      {
+        "funcao": "Encanador",
+        "quantidade": 2
+      }
+    ],
+    "servicos": [
+      {
+        "descricao": "Elevação da alvenaria do 2º pavimento"
+      },
+      {
+        "descricao": "Desforma parcial das laterais das vigas do 3º pavimento"
+      },
+      {
+        "descricao": "Fechamento do shaft do 2º pavimento"
+      }
+    ],
+    "descritivo": "Aguardando resposta do projetista sobre o shaft.",
+    "ocorrencias": "Sem ocorrências no dia.",
+    "fotos": 0
+  },
+  {
+    "rdo": 14,
+    "data": "2026-10-01",
+    "clima": "ensolarado",
+    "equipe": [
+      {
+        "funcao": "Encarregado",
+        "quantidade": 1
+      },
+      {
+        "funcao": "Pedreiro",
+        "quantidade": 4
+      },
+      {
+        "funcao": "Servente",
+        "quantidade": 5
+      }
+    ],
+    "servicos": [
+      {
+        "descricao": "Elevação da alvenaria do 2º pavimento"
+      },
+      {
+        "descricao": "Chapisco da fachada norte"
+      }
+    ],
+    "descritivo": "",
+    "ocorrencias": "Sem ocorrências no dia.",
+    "fotos": 0
+  },
+  {
+    "rdo": 15,
+    "data": "2026-10-02",
+    "clima": "ensolarado",
+    "equipe": [
+      {
+        "funcao": "Encarregado",
+        "quantidade": 1
+      },
+      {
+        "funcao": "Pedreiro",
+        "quantidade": 4
+      },
+      {
+        "funcao": "Servente",
+        "quantidade": 5
+      }
+    ],
+    "servicos": [
+      {
+        "descricao": "Elevação da alvenaria do 2º pavimento"
+      },
+      {
+        "descricao": "Chapisco da fachada norte"
+      },
+      {
+        "descricao": "Fechamento do shaft do 2º pavimento"
+      }
+    ],
+    "descritivo": "Projetista confirmou a posição do shaft conforme o projeto arquitetônico; serviço retomado.",
+    "ocorrencias": "Sem ocorrências no dia.",
+    "fotos": 1
+  }
+]
